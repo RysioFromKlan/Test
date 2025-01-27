@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "RestJsonServer\\RestJsonServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WinFormsApp\\WinFormsApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
